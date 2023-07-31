@@ -1,0 +1,10 @@
+.stepBtnStyle {
+  display: flex;
+}
+.stepBtnStyle button {
+  padding: 2px 10px;
+}
+.textStyle {
+  font-size: 32px;
+  margin-top: 10px;
+}
